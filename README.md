@@ -1,4 +1,4 @@
 # git-demo
-This is my first git repo
+This is my own git repo
 <br>
 Author - Arijit Das
